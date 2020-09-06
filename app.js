@@ -28,6 +28,3 @@ switch (command) {
             console.log('comando no reconocido');
         }
 }
-
-// let parametro = argv[2];
-// let base = parametro.split('=')[1]
